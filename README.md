@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Trainee+-International%20Internship%20Platform-6366f1?style=for-the-badge&labelColor=1e1e2e" alt="Trainee+ Banner"/>
+  <img src="./trainee-logo.jpg" alt="Trainee+ Logo" width="180"/>
 </p>
 
-<h1 align="center">🎓 Trainee+</h1>
+<h1 align="center">Trainee+</h1>
 
 <p align="center">
   <strong>Connecting French Grandes Écoles students with European tech startups</strong>
